@@ -1,5 +1,5 @@
 # cs-basics
-code for computer science basic constructs
+code for computer science basic constructs,
 visit master node for code
 
 # Searching Algorithms
