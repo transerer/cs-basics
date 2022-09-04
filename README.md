@@ -1,5 +1,6 @@
 # cs-basics
 code for computer science basic constructs
+visit master node for code
 
 # Searching Algorithms
 1. Linear Search
