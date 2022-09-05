@@ -1,6 +1,7 @@
 # cs-basics
-code for computer science basic constructs,
-visit master node for code
+code for computer science basic constructs
+
+visit master branch for java code
 
 # Searching Algorithms
 1. Linear Search
